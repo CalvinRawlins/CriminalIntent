@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">CriminalIntent</string>
+
+    <string name="crime_details">Crime Details</string>
+
+    <string name="solved">Solved</string>
+    <string name="unsolved">Unsolved</string>
+
+    <string name="untitled_crime">Untitled Crime</string>
+
+    <string name="crime_title_label">Title</string>
+    <string name="crime_title_hint">Enter a title for the crime</string>
+
+    <string name="crime_solved">Solved</string>
+
+    <string name="crime_date">Crime Date</string>
+
+    <string name="crime_photo">Crime photo</string>
+
+    <string name="take_photo">Take Photo</string>
+
+    <string name="crime_report">Send Crime Report</string>
+
+    <string name="add_crime">Add Crime</string>
+
+    <string name="delete_crime">Delete Crime</string>
+
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+
+    <string name="crime_report_text">%1$s\nDate: %2$s\nStatus: %3$s</string>
+
+    <string name="send_report">Send crime report using</string>
+
+    <string name="no_camera_app">No camera app is available.</string>
+
+    <string name="no_share_app">No app is available to send the report.</string>
+
+</resources>
